@@ -28,7 +28,7 @@ deberá cumplir con el punto numero 2)
 ## Detalles
 
 | Descripción                                                | Puntos |
-|:----------------------------------------------------------:|:------:|
+|------------------------------------------------------------|:------:|
 | Método de encriptado simétrico                             |   10   |
 | Método de encriptado asimétrico                            |   10   |
 | Método de encriptado libre (distinto a los dos anteriores) |   10   |

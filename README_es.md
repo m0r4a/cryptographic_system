@@ -11,12 +11,17 @@ La aplicación deberá:
 
 1. Iniciar preguntando si quiere registrarse (crear un nuevo certificado), o iniciar sesión (leer un certificado
 ya creado)
+
 2. El certificado debe guardarse como dos archivos (llave publica / llave privada) con la llave privada
 cifrada por contraseña
+
 3. Se deberá poder guardar información cifrada con los certificados del usuario
+
 4. Se utilizará un sistema blockchain o de curvas elípticas para la generación de llaves
+
 5. Debe contar por lo menos con tres sistemas criptográficos siendo uno simétrico, uno asimétrico, y uno
 a libre elección (según lo requiera el alumno)
+
 6. De manera opcional se puede crear una DApp sencilla que permita el guardado de información (aun así,
 deberá cumplir con el punto numero 2)
 

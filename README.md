@@ -6,7 +6,7 @@
 
 An application will be developed to store encrypted and signed information, ensuring identification of the user who stored it using digital certificates.
 
-## Funcionalidad
+## Functionality
 
 The application should:
 

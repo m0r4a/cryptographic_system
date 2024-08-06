@@ -25,7 +25,7 @@ The application should:
 ## Details
 
 | Description                                           | Points |
-|-------------------------------------------------------|--------|
+|:-----------------------------------------------------:|:------:|
 | Symmetric encryption method                           |   10   |
 | Asymmetric encryption method                          |   10   |
 | Free encryption method (different from the two above) |   10   |
